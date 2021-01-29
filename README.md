@@ -1,6 +1,7 @@
 <h2>Hi, I am Mohamed Atef :sweat_smile: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-
+<img align='right' src="https://media.giphy.com/media/b85mPT4Usz7fq/giphy.gif" width="230">
+<p><em>Android Team Lead at <a href="https://play.google.com/store/apps/details?id=mo.atef.talab.station.client">Talab Station</a><img src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="30"></br>Android Track Mentor @ <a href="https://andela.com/">Andela in Google Africa Scholarships</a><img src="https://media.giphy.com/media/26AHQYzFXI6T8U9z2/giphy.gif" width="30"> 
+</em></p>
 
 
 Android Team Lead at [Talab Station](https://play.google.com/store/apps/details?id=mo.atef.talab.station.client)
