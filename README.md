@@ -1,6 +1,9 @@
 <h2>Hi, I am Mohamed Atef :sweat_smile: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/b85mPT4Usz7fq/giphy.gif" width="230">
-<p><em>Android Team Lead at <a href="https://play.google.com/store/apps/details?id=mo.atef.talab.station.client">Talab Station</a><img src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="30"></br>Android Track Mentor @ <a href="https://andela.com/">Andela in Google Africa Scholarships</a><img src="https://media.giphy.com/media/26AHQYzFXI6T8U9z2/giphy.gif" width="30"> 
+<img align='right' src="https://media.giphy.com/media/b85mPT4Usz7fq/giphy.gif" width="230" height="265">
+<p><em>Android Team Lead @ <a href="https://play.google.com/store/apps/details?id=mo.atef.talab.station.client">Talab Station</a></br>Android Track Mentor @ <a href="https://andela.com/">Andela in Google Africa Scholarships</a>
+<p><em>Android Track Mentor @ <a href="https://mentor.arabcoders.ae/experts/4903">One Million Arab Coders Initiative</a></br>Master Scholar @ <a href="http://www.fayoum.edu.eg/">Fayoum University</a>
+<p><em>Published +15 apps on <a href="https://play.google.com/store/apps/dev?id=8766826061956234248">google play store</a></br>
+
 </em></p>
 
 
