@@ -9,8 +9,8 @@
 
 
 [![Twitter: Mohamed Atef](https://img.shields.io/twitter/follow/_Mohamed__Atef_?style=social)](https://twitter.com/_Mohamed__Atef_)
-[![Linkedin: Mohamed Atef](https://img.shields.io/badge/-Prof-MohamedAtef-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prof-mohamed-atef/)](https://www.linkedin.com/in/prof-mohamed-atef/)
-[![GitHub Mohamed Atef](https://img.shields.io/github/followers/Prof-MohamedAtef+?label=follow&style=social)](https://github.com/Prof-MohamedAtef)
+[![Linkedin: Mohamed Atef](https://img.shields.io/badge/Prof-MohamedAtef-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prof-mohamed-atef/)](https://www.linkedin.com/in/prof-mohamed-atef/)
+[![GitHub Mohamed Atef](https://img.shields.io/github/followers/Prof-MohamedAtef?label=follow&style=social)](https://github.com/Prof-MohamedAtef)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
