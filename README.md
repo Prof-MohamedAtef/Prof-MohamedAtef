@@ -1,4 +1,10 @@
 <h2>Hi, I am Mohamed Atef :sweat_smile::muscle::muscle::sweat_smile:</h2>
+</br></br><p align='right'>
+      <a href="https://github.com/Prof-MohamedAtef/Prof-MohamedAtef/blob/master/Mohamed_Atef_Resume_Jan2021.pdf">
+            <img alt="Ansible Role" src="https://img.shields.io/static/v1?color=orange&label=Resume&logo=Apple&logoColor=white&style=for-the-badge&message=Download">
+      </a>
+</p>
+
 <img align='right' src="https://media.giphy.com/media/b85mPT4Usz7fq/giphy.gif" width="230" height="265">
 <p>Android Team Lead @ <a href="https://play.google.com/store/apps/details?id=mo.atef.talab.station.client">Talab Station</a></br>Android Track Mentor @ <a href="https://andela.com/">Andela in Google Africa Scholarships</a>
 <p>Android Track Mentor @ <a href="https://mentor.arabcoders.ae/experts/4903">One Million Arab Coders Initiative</a></br>Master Scholar @ <a href="http://www.fayoum.edu.eg/">Fayoum University</a>
@@ -13,11 +19,6 @@
 [![GitHub Mohamed Atef](https://img.shields.io/github/followers/Prof-MohamedAtef?label=follow&style=social)](https://github.com/Prof-MohamedAtef)
 
 
-</br></br><p align='right'>
-      <a href="https://github.com/Prof-MohamedAtef/Prof-MohamedAtef/blob/master/Mohamed_Atef_Resume_Jan2021.pdf">
-            <img alt="Ansible Role" src="https://img.shields.io/static/v1?color=orange&label=Resume&logo=Apple&logoColor=white&style=for-the-badge&message=Download">
-      </a>
-</p>
 
 </br></br><img align='right' src="https://github.com/Prof-MohamedAtef/Prof-MohamedAtef/blob/master/Guinness_1.9MB.jpg" width="900" height="450">
 </br></br>
