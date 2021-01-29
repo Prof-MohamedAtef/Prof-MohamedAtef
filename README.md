@@ -24,8 +24,7 @@
 
 ```javascript
 const mo_atef= {
-  pronouns: "He" | "Him",
-  code: [See Sharp C#, Visual Basic, Java, Kotlin, Dart, Python, PhP, Asp.Net, html, css],
+  programming languages: [See Sharp C#, Visual Basic, Java, Kotlin, Dart, Python, PhP, Asp.Net, html, css],
   tools: [Android Studio, Flutter Plugin, Php Storm, Visual Studio Code, Xampp, MSSql Server, Microsoft Visual Studio 2010, 2013 & 2015],
   architecture: ["MVVM", "MVC", "MVP"],
   techCommunities: {
