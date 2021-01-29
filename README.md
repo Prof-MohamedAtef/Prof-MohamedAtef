@@ -19,14 +19,14 @@
 ```javascript
 const mo_atef= {
   pronouns: "He" | "Him",
-  code: [See Sharp C#, VB, Java, Kotlin, Dart, Python, PHP, ASP.NET, HTML, CSS],
-  tools: [Android Studio, Php Storm, Visual Studio Code, Xampp, MSSql Server],
+  code: [See Sharp C#, Visual Basic, Java, Kotlin, Dart, Python, PhP, Asp.Net, html, css],
+  tools: [Android Studio, Flutter Plugin, Php Storm, Visual Studio Code, Xampp, MSSql Server, Microsoft Visual Studio 2010, 2013 & 2015],
   architecture: ["MVVM", "MVC", "MVP"],
   techCommunities: {
                         mentor: "Andela",
                         mentor: "1MACs"
                       },
-  Hackathons: "I had joined Hajj Hackathon on Aug 2018"
+  Hackathons: "I had joined Hajj Hackathon on Aug 2018, the most attended Software Engineering competition in the history in Jeddah, Saudi Arabia"
 }
 ```
 
