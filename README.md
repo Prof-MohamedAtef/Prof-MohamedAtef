@@ -8,10 +8,10 @@ Android Team Lead at [Talab Station](https://play.google.com/store/apps/details?
 
 
 
-# Recent releases
+# Some releases
 <!-- recent_releases starts -->
 * [github-DES with C# release](https://github.com/Prof-MohamedAtef/encryptDecryptPlainText_in_CShasrp/releases/tag/1.0) - 2021-01-28
 <!-- recent_releases ends -->
 
- ![hits](https://visitor-badge.glitch.me/badge?page_id=Prof-MohamedAtef)
+<center> ![hits](https://visitor-badge.glitch.me/badge?page_id=Prof-MohamedAtef)</center>
 
