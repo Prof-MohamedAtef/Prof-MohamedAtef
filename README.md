@@ -15,7 +15,7 @@
 
 </br></br><p align='right'>
       <a href="https://github.com/Prof-MohamedAtef/Prof-MohamedAtef/blob/master/Mohamed_Atef_Resume_Jan2021.pdf">
-            <img alt="Ansible Role" src="https://img.shields.io/static/v1?color=green&label=Resume&logo=Apple&logoColor=white&style=for-the-badge&message=Download">
+            <img alt="Ansible Role" src="https://img.shields.io/static/v1?color=orange&label=Resume&logo=Apple&logoColor=white&style=for-the-badge&message=Download">
       </a>
 </p>
 
