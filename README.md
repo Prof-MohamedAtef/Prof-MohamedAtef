@@ -1,4 +1,4 @@
-<h2>Hi, I am Mohamed Atef :sweat_smile:</h2>
+<h2>Hi, I am Mohamed Atef :sweat_smile::muscle::muscle::sweat_smile:</h2>
 <img align='right' src="https://media.giphy.com/media/b85mPT4Usz7fq/giphy.gif" width="230" height="265">
 <p>Android Team Lead @ <a href="https://play.google.com/store/apps/details?id=mo.atef.talab.station.client">Talab Station</a></br>Android Track Mentor @ <a href="https://andela.com/">Andela in Google Africa Scholarships</a>
 <p>Android Track Mentor @ <a href="https://mentor.arabcoders.ae/experts/4903">One Million Arab Coders Initiative</a></br>Master Scholar @ <a href="http://www.fayoum.edu.eg/">Fayoum University</a>
@@ -40,6 +40,6 @@ const mo_atef= {
 
 
 
- <p align="center"> ![hits](https://visitor-badge.glitch.me/badge?page_id=Prof-MohamedAtef)</p>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23E75D06&title_bg=%23555555&icon=&icon_color=%23A21D1D&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ---
