@@ -1,4 +1,4 @@
-<h2>Hi, I am Mohamed Atef :sweat_smile: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2>Hi, I am Mohamed Atef :sweat_smile:</h2>
 <img align='right' src="https://media.giphy.com/media/b85mPT4Usz7fq/giphy.gif" width="230" height="265">
 <p>Android Team Lead @ <a href="https://play.google.com/store/apps/details?id=mo.atef.talab.station.client">Talab Station</a></br>Android Track Mentor @ <a href="https://andela.com/">Andela in Google Africa Scholarships</a>
 <p>Android Track Mentor @ <a href="https://mentor.arabcoders.ae/experts/4903">One Million Arab Coders Initiative</a></br>Master Scholar @ <a href="http://www.fayoum.edu.eg/">Fayoum University</a>
@@ -32,7 +32,8 @@ const mo_atef= {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
+
+
+ ![hits](https://visitor-badge.glitch.me/badge?page_id=Prof-MohamedAtef)
+
 ---
-
-
-![hits](https://visitor-badge.glitch.me/badge?page_id=Prof-MohamedAtef)
