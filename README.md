@@ -37,9 +37,9 @@ const mo_atef= {
                       },
   Hackathons: "I had joined Hajj Hackathon on Aug 2018, the most attended Software Engineering competition in the history in Jeddah, Saudi Arabia"
   Important Projects for Android Profile:
-  <p>1. Unit Testing @ <a href="https://github.com/Prof-MohamedAtef/kotlin-data-class-raywenderlich">Unit Testing</a></p>
 }
 ```
+<p>1. Unit Testing @ <a href="https://github.com/Prof-MohamedAtef/kotlin-data-class-raywenderlich">Unit Testing</a></p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love getting the experience from everyone</b> so if you want to say <b>hi, I'll be so glad! and i cannot stop you</b> :)</em>
 
