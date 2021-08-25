@@ -36,6 +36,8 @@ const mo_atef= {
                         mentor: "1MACs"
                       },
   Hackathons: "I had joined Hajj Hackathon on Aug 2018, the most attended Software Engineering competition in the history in Jeddah, Saudi Arabia"
+  Important Projects for Android Profile:
+      1. <a href="https://github.com/Prof-MohamedAtef/kotlin-data-class-raywenderlich">Unit Testing</a>
 }
 ```
 
