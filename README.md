@@ -53,23 +53,6 @@ const mo_atef= {
 
  ![hits](https://visitor-badge.glitch.me/badge?page_id=Prof-MohamedAtef)
 
-
----
-
-</br></br>
-<div align="left">
-      <a href="https://www.youtube.com/watch?v=cTyQPL-En1k">
-         <img src="https://img.youtube.com/vi/cTyQPL-En1k/0.jpg" style="width:100%;">
-      </a>
-</div>
-
-<iframe width="400" height="315" src="https://www.youtube.com/embed/cTyQPL-En1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-
-
-
 https://user-images.githubusercontent.com/16711483/186004667-76500047-f7ee-4622-9009-e176cf2967c0.mp4
 
 
