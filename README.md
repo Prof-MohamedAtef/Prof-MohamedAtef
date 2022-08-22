@@ -1,4 +1,4 @@
-<body background="#e4e7dc">
+<table background="#e4e7dc">
 <h2>Hi, I am Mohamed Atef :sweat_smile::muscle::muscle::sweat_smile:</h2>
 
 <img align='right' src="https://github.com/Prof-MohamedAtef/Prof-MohamedAtef/blob/master/atef.jfif" width="350" height="300">
@@ -59,4 +59,4 @@ const mo_atef= {
 
 </br></br><iframe width="400" height="315" src="https://www.youtube.com/embed/cTyQPL-En1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-</body>
+</table>
