@@ -20,9 +20,9 @@
 </p>
 
 
-</br></br><img src="https://github.com/Prof-MohamedAtef/Prof-MohamedAtef/blob/master/Guinness_1.9MB.jpg" width="350" height="400">
-<img src="https://github.com/Prof-MohamedAtef/Prof-MohamedAtef/blob/master/Guinness_1.9MB23.jpg" width="350" height="400">
-<img src="https://github.com/Prof-MohamedAtef/Prof-MohamedAtef/blob/master/thesis.jfif" width="350" height="400">
+</br></br><img src="https://github.com/Prof-MohamedAtef/Prof-MohamedAtef/blob/master/Guinness_1.9MB.jpg" width="300" height="400">
+<img src="https://github.com/Prof-MohamedAtef/Prof-MohamedAtef/blob/master/Guinness_1.9MB23.jpg" width="300" height="400">
+<img src="https://github.com/Prof-MohamedAtef/Prof-MohamedAtef/blob/master/thesis.jfif" width="300" height="400">
 </br></br>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
