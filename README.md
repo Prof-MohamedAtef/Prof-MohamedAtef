@@ -47,6 +47,8 @@ const mo_atef= {
 <p>B) <a href="https://github.com/Prof-MohamedAtef/ZeewAuth">MVVM, RxKotlin & Retrofit</a></p></br>
 <p>C) <a href="https://github.com/Prof-MohamedAtef/coroutines-android-codelab">Android Codelab for Kotlin Coroutines</a></p></br>
 <p>D) <a href="https://github.com/Prof-MohamedAtef/hilt_DepenedencyInjection_android">Hilt lib as an Android automated Dependency Injection library</a></p>
+<p>E) <a href="https://github.com/Prof-MohamedAtef/advanced-kotlin-coroutines-with-Kotlin-Flow-and-LiveData">Advanced Kotlin Coroutines with Kotlin Flow and LiveData</a></p>
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love getting the experience from everyone</b> so if you want to say <b>hi, I'll be so glad! and i cannot stop you</b> :)</em>
 
