@@ -51,9 +51,9 @@ const mo_atef= {
 
  ![hits](https://visitor-badge.glitch.me/badge?page_id=Prof-MohamedAtef)
 
-</br></br><img src="https://github.com/Prof-MohamedAtef/Prof-MohamedAtef/blob/master/Guinness_1.9MB.jpg" width="280" height="400">
-<img src="https://github.com/Prof-MohamedAtef/Prof-MohamedAtef/blob/master/Guinness_1.9MB23.jpg" width="280" height="400">
-<img src="https://github.com/Prof-MohamedAtef/Prof-MohamedAtef/blob/master/thesis.jfif" width="280" height="400">
+</br></br><img src="https://github.com/Prof-MohamedAtef/Prof-MohamedAtef/blob/master/Guinness_1.9MB.jpg" width="220" height="400">
+<img src="https://github.com/Prof-MohamedAtef/Prof-MohamedAtef/blob/master/Guinness_1.9MB23.jpg" width="220" height="400">
+<img src="https://github.com/Prof-MohamedAtef/Prof-MohamedAtef/blob/master/thesis.jfif" width="220" height="400">
 <img src="https://github.com/Prof-MohamedAtef/Prof-MohamedAtef/blob/master/Guinness_1.9MB5.jpg" width="1000" height="500">
 </br>
 
