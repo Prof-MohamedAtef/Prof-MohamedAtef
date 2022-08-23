@@ -46,7 +46,7 @@ const mo_atef= {
 <p>A) <a href="https://github.com/Prof-MohamedAtef/kotlin-data-class-raywenderlich">Unit Testing 1</a> and <a href="https://github.com/Prof-MohamedAtef/android-test-codelab-samples">Unit Testing 2</a> </p></br>
 <p>B) <a href="https://github.com/Prof-MohamedAtef/ZeewAuth">MVVM, RxKotlin & Retrofit</a></p></br>
 <p>C) <a href="https://github.com/Prof-MohamedAtef/coroutines-android-codelab">Android Codelab for Kotlin Coroutines</a></p></br>
-<p>D) <a href="https://github.com/Prof-MohamedAtef/hilt_DepenedencyInjection_android">Hilt lib as an Android automated Dependency Injection library</a></p>
+<p>D) <a href="https://github.com/Prof-MohamedAtef/hilt_DepenedencyInjection_android">Hilt lib as an Android automated Dependency Injection library</a></p></br>
 <p>E) <a href="https://github.com/Prof-MohamedAtef/advanced-kotlin-coroutines-with-Kotlin-Flow-and-LiveData">Advanced Kotlin Coroutines with Kotlin Flow and LiveData</a></p>
 
 
