@@ -1,7 +1,7 @@
 <h2>Hi, I am Mohamed Atef :sweat_smile::muscle::muscle::sweat_smile:</h2>
 
 <img align='right' src="https://github.com/Prof-MohamedAtef/Prof-MohamedAtef/blob/master/atef.jfif" width="350" height="300">
-<p>Android Team Lead @ <a href="https://play.google.com/store/apps/details?id=mo.atef.talab.station.client">Talab Station</a></br>Android Track Mentor @ <a href="https://andela.com/">Andela in Google Africa Scholarships</a>
+<p>Android Team Lead @ <a href="https://play.google.com/store/apps/details?id=mo.atef.talab.station.client">Talab Station</a></br></br>Android Track Mentor @ <a href="https://andela.com/">Andela in Google Africa Scholarships</a>
 <p>Android Track Mentor @ <a href="https://mentor.arabcoders.ae/experts/4903">One Million Arab Coders Initiative</a></br></br>Holder of Master degree from <a href="http://www.fayoum.edu.eg/">Faculty of Computers and Information, Fayoum University</a>
 <p>Published +15 apps on <a href="https://play.google.com/store/apps/dev?id=8766826061956234248">google play store</a></br></p>
 <p>Worked on +150 project on <a href="https://github.com/Prof-MohamedAtef?tab=repositories">Github</a></br></p>
