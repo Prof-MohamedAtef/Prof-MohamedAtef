@@ -49,6 +49,9 @@ const mo_atef= {
 <p>D) <a href="https://github.com/Prof-MohamedAtef/hilt_DepenedencyInjection_android">Hilt lib as an Android automated Dependency Injection library</a></p></br>
 <p>E) <a href="https://github.com/Prof-MohamedAtef/advanced-kotlin-coroutines-with-Kotlin-Flow-and-LiveData">Advanced Kotlin Coroutines with Kotlin Flow and LiveData</a></p></br>
 <p>F) <a href="https://github.com/Prof-MohamedAtef/AdvancedKotlinNanodegree-TriviaApp-EgFWD">Advanced Kotlin Nanodegree - Trivia Project</a></p>
+</br>
+<p>F) <a href="https://github.com/Prof-MohamedAtef/AppArchitectureAndroid-EgFWD">Advanced Kotlin Nanodegree - App Architecture MVVM </a></p>
+
 
 
 
