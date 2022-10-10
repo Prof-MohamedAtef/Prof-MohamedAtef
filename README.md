@@ -25,6 +25,15 @@
 </br>
 
 
+</br></br><img src="https://github.com/Prof-MohamedAtef/Prof-MohamedAtef/blob/master/Guinness_1.9MB.jpg" width="220" height="400">
+<img src="https://github.com/Prof-MohamedAtef/Prof-MohamedAtef/blob/master/Guinness_1.9MB23.jpg" width="220" height="400">
+<img src="https://github.com/Prof-MohamedAtef/Prof-MohamedAtef/blob/master/thesis.jfif" width="360" height="400">
+<img src="https://github.com/Prof-MohamedAtef/Prof-MohamedAtef/blob/master/Guinness_1.9MB5.jpg" width="1000" height="500">
+</br>
+
+
+https://user-images.githubusercontent.com/16711483/186005069-4af4c47d-9f43-4e0b-8081-50f4a07d9ffb.mp4
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -65,17 +74,4 @@ const mo_atef= {
 
 
  ![hits](https://visitor-badge.glitch.me/badge?page_id=Prof-MohamedAtef)
-
-</br></br><img src="https://github.com/Prof-MohamedAtef/Prof-MohamedAtef/blob/master/Guinness_1.9MB.jpg" width="220" height="400">
-<img src="https://github.com/Prof-MohamedAtef/Prof-MohamedAtef/blob/master/Guinness_1.9MB23.jpg" width="220" height="400">
-<img src="https://github.com/Prof-MohamedAtef/Prof-MohamedAtef/blob/master/thesis.jfif" width="360" height="400">
-<img src="https://github.com/Prof-MohamedAtef/Prof-MohamedAtef/blob/master/Guinness_1.9MB5.jpg" width="1000" height="500">
-</br>
-
-
-https://user-images.githubusercontent.com/16711483/186005069-4af4c47d-9f43-4e0b-8081-50f4a07d9ffb.mp4
-
-
-
-
 
