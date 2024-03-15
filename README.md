@@ -75,6 +75,8 @@ const mo_atef= {
 </br>
 <p>M) <a href="https://github.com/Prof-MohamedAtef/testing-with-kotlin-udacity">Kotlin Testing | Unit - Instrumented (Espresso|Mockito) - Basics and Architecture Components </a></p>
 
+<a href="https://www.buymeacoffee.com/myurl" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 180px !important;" ></a>
+
 
 
 
